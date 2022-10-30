@@ -1,0 +1,9 @@
+background color	: untuk warna background
+color 			: untuk warna text
+.			: adalah memanggil css ke kelas
+display flex 		: untuk menjadikan text yang asalnya berada dibawah menjadi kepinggir
+container 		: untuk background awal apabila ingin menambahkan tabel didalam tabel membuat class contoh wrapper
+height: auto 		: adalah untuk dimana kita ngetik dia akan mengikuti si text tersebut 
+icon                : Mmenggunakan font awesome
+em                  : berapa kalinya dari pixel
+cursor pointer      : apabila cursor mengarah ke button maka akan menjadi tangan
